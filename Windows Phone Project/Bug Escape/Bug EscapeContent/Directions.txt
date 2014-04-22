@@ -1,0 +1,5 @@
+Directions0 = 0 0 800 480
+Directions1 = 0 481 800 480
+Directions2 = 801 0 800 480
+Directions3 = 801 481 800 480
+Directions4 = 0 962 800 480

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bug Escape", "Bug Escape\Bug Escape\Bug Escape.csproj", "{3B3EA49A-2B3D-45FE-9667-BAABE5B41CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bug EscapeContent", "Bug Escape\Bug EscapeContent\Bug EscapeContent.contentproj", "{A00CA358-B74C-4742-B909-E3BABFA16426}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B3EA49A-2B3D-45FE-9667-BAABE5B41CF5}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{3B3EA49A-2B3D-45FE-9667-BAABE5B41CF5}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{3B3EA49A-2B3D-45FE-9667-BAABE5B41CF5}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{3B3EA49A-2B3D-45FE-9667-BAABE5B41CF5}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{3B3EA49A-2B3D-45FE-9667-BAABE5B41CF5}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{3B3EA49A-2B3D-45FE-9667-BAABE5B41CF5}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{A00CA358-B74C-4742-B909-E3BABFA16426}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{A00CA358-B74C-4742-B909-E3BABFA16426}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

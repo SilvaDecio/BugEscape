@@ -1,0 +1,15 @@
+CockRoach0 = 0 0 97 134
+CockRoach1 = 98 0 97 134
+CockRoach10 = 196 0 97 134
+CockRoach11 = 294 0 97 134
+CockRoach12 = 392 0 97 134
+CockRoach13 = 0 135 97 134
+CockRoach14 = 98 135 97 134
+CockRoach2 = 0 270 97 134
+CockRoach3 = 196 135 97 134
+CockRoach4 = 98 270 97 134
+CockRoach5 = 294 135 97 134
+CockRoach6 = 196 270 97 134
+CockRoach7 = 392 135 97 134
+CockRoach8 = 294 270 97 134
+CockRoach9 = 392 270 97 134

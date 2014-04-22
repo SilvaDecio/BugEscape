@@ -1,0 +1,12 @@
+Joaninha0 = 0 0 76 76
+Joaninha1 = 77 0 76 76
+Joaninha10 = 154 0 76 76
+Joaninha11 = 0 77 76 76
+Joaninha2 = 77 77 76 76
+Joaninha3 = 0 154 76 76
+Joaninha4 = 77 154 76 76
+Joaninha5 = 154 77 76 76
+Joaninha6 = 154 154 76 76
+Joaninha7 = 231 0 76 76
+Joaninha8 = 231 77 76 76
+Joaninha9 = 308 0 76 76

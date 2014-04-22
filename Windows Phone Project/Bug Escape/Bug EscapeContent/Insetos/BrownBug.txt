@@ -1,0 +1,16 @@
+BrownBug0 = 0 0 51 55
+BrownBug1 = 52 0 51 55
+BrownBug10 = 0 56 51 55
+BrownBug11 = 52 56 51 55
+BrownBug12 = 104 0 51 55
+BrownBug13 = 156 0 51 55
+BrownBug14 = 104 56 51 55
+BrownBug15 = 156 56 51 55
+BrownBug2 = 0 112 51 55
+BrownBug3 = 52 112 51 55
+BrownBug4 = 0 168 51 55
+BrownBug5 = 104 112 51 55
+BrownBug6 = 52 168 51 55
+BrownBug7 = 156 112 51 55
+BrownBug8 = 104 168 51 55
+BrownBug9 = 156 168 51 55

@@ -1,0 +1,6 @@
+Loading0 = 0 0 233 122
+Loading1 = 0 123 233 122
+Loading2 = 234 0 233 122
+Loading3 = 234 123 233 122
+Loading4 = 0 246 233 122
+Loading5 = 234 246 233 122

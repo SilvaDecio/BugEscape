@@ -1,0 +1,11 @@
+BlackBug0 = 0 0 77 56
+BlackBug1 = 0 57 77 56
+BlackBug10 = 78 0 77 56
+BlackBug2 = 78 57 77 56
+BlackBug3 = 156 0 77 56
+BlackBug4 = 156 57 77 56
+BlackBug5 = 0 114 77 56
+BlackBug6 = 0 171 77 56
+BlackBug7 = 78 114 77 56
+BlackBug8 = 78 171 77 56
+BlackBug9 = 156 114 77 56
